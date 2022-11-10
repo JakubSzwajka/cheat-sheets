@@ -1,0 +1,1 @@
+This repo aims to be a cheat-sheet with dev specific knowledge. 
