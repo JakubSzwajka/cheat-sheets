@@ -9,3 +9,8 @@ and
 ```
 git push -u origin main
 ```
+
+After generating ssh, add it to keychain: 
+```
+ssh-add --apple-use-keychain ~/.ssh/github/github-private
+```
